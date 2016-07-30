@@ -1,26 +1,37 @@
-# Calculator
+# Alert site | Intro to Programming
 
-#### Calculator js exercise, 05.31.2016
+#### A JS Exercise for Epicodus, June 1, 2016
 
-#### By Meaghan and Rachael
+#### By **Maldon Meehan and Meaghan Jones**
 
 ## Description
-
 This is a simple calculator application made to practice js.
+The full lesson can be found
+<a href="https://www.learnhowtoprogram.com/intro-to-programming/javascript-and-jquery-c950c9ce-679c-4678-ab1f-11881b766e22/calculator-user-interface">here</a>.
+
 
 ## Setup/Installation Requirements
 
-Open browser
-
+* Clone this repository
+* open the html file in a browser
 
 ## Known Bugs
 
-There are no known bugs.
+No known bugs at this point
 
+## Support and contact details
+
+If you have any questions please feel free to contact us on github.
 
 ## Technologies Used
 
-HTML
-JavaScript
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
 
-Copyright (c) 2016 Rachael and Meaghan
+### License
+
+MIT License
+
+Copyright (c) 2016, **Epicodus**
