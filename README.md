@@ -1,4 +1,4 @@
-# Alert site | Intro to Programming
+# Calculator Stie | Intro to Programming
 
 #### A JS Exercise for Epicodus, June 1, 2016
 
